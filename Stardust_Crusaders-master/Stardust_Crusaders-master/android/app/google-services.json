@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "641565894978",
+    "firebase_url": "https://stardust-crusaders-c95eb-default-rtdb.firebaseio.com",
+    "project_id": "stardust-crusaders-c95eb",
+    "storage_bucket": "stardust-crusaders-c95eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641565894978:android:9af1b3e30fc1ed251140db",
+        "android_client_info": {
+          "package_name": "com.example.sweetdreams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641565894978-i1m0a6q53s0m01p176upkc7cboo32jh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtsQ99UxHiViTvnF0YSiyVFjwvY7-lHIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641565894978-i1m0a6q53s0m01p176upkc7cboo32jh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
